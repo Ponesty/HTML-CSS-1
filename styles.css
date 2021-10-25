@@ -1,6 +1,12 @@
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
 h1 {
     background-image: url("Pics/NGC.jpg");
     color:skyblue;
     background-size: cover;
     background-position-y: center;
+    padding: 4rem;
 }
